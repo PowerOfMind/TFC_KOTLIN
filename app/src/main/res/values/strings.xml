@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TFC_KOTLIN</string>
+    <string name="datos_personales">Datos personales</string>
+    <string name="sitios_interes">Lugares de interes</string>
+    <string name="eventos">Eventos</string>
+    <string name="contactos">Contactos</string>
+    <string name="documentos">Documentos</string>
+    <string name="conociemientos">Conociemientos</string>
+    <string name="localizacion">Localizacion</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
